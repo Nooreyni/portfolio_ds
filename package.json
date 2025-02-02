@@ -1,0 +1,12 @@
+{
+  "name": "nooreyni-portfolio",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "gatsby": "^5.12.5",
+    "gatsby-plugin-react-helmet": "^6.12.0",
+    "gatsby-plugin-netlify": "^5.2.0",
+    "framer-motion": "^10.16.0",
+    "react-icons": "^4.10.1"
+  }
+}
